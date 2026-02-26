@@ -1,14 +1,3 @@
-# Welcome
-
-Hi, I’m **Rayan Quddus** — MS Aerospace Engineering (Thermal & Multiphase Systems), CSULB.
-
-This repository hosts my professional engineering portfolio, including research projects, system design work, and simulation studies related to aerospace thermal management.
-
----
-
-## Navigate by Interest
-
-
 ## 📊 Data Processing, Modeling & CFD Coding Projects
 
 ### 1️⃣ MATLAB-Based Pool & Flow Boiling Data Processing
