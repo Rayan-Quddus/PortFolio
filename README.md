@@ -18,5 +18,3 @@ Use the branch dropdown (top-left) to switch to a section:
 - 📊 **Data Processing, Modeling & CFD Coding** → branch: `Data-Processing,-Modeling-&-CFD-Coding`  
   *MATLAB post-processing (boiling), uncertainty analysis, CFD post-processing scripts, ML bubble analysis*
 
-### Quick Tip
-Click the branch selector → pick a branch → open the files in that branch.
